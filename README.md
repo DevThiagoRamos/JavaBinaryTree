@@ -1,6 +1,6 @@
 # JavaBinaryTree
-Hey guys, 
-this is my first application on binary tree with creation of roots and direct and left children.
+Hello everyone,
+this is my first application on the content of binary tree with creation of roots and children for right and left.
 
 ## Class Diagram
 <img src="documentation/images/diagramaDeClasses.png">
